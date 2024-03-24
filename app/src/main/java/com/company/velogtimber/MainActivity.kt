@@ -47,15 +47,7 @@ class MainActivity : ComponentActivity() {
                 Timber.e("황건희E")
             }
         }
-//        catchMe()
     }
 
-//    private fun catchMe() {
-//        try {
-//            error("Catch me")
-//        } catch (e: Exception) {
-//            // handle crash
-//            Timber.e(e)
-//        }
-//    }
+
 }
