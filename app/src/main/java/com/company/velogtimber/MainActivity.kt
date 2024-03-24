@@ -47,7 +47,6 @@ class MainActivity : ComponentActivity() {
                 Timber.e("황건희E")
             }
         }
-//        catchMe()
     }
 
 
