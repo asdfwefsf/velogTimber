@@ -50,12 +50,5 @@ class MainActivity : ComponentActivity() {
 //        catchMe()
     }
 
-//    private fun catchMe() {
-//        try {
-//            error("Catch me")
-//        } catch (e: Exception) {
-//            // handle crash
-//            Timber.e(e)
-//        }
-//    }
+
 }
